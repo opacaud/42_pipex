@@ -3,7 +3,7 @@
 ## Making "./pipex file1 cmd1 cmd2 file2" behave like "&lt; file1 cmd1 | cmd2 > file2"
 </br>
 
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/opacaud/pipex)](https://github.com/JaeSeoKim/badge42)
+[![opacaud's 42 pipex Score](https://badge42.vercel.app/api/v2/cl2g6sk3a013609l6l237136q/project/2247676)](https://github.com/JaeSeoKim/badge42)
 </br>
 </br>
 
